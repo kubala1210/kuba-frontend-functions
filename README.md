@@ -3,7 +3,7 @@
 &nbsp;
 
 # Python: Zaawansowany frontend – funkcje
-!
+
 
 &nbsp;
 
